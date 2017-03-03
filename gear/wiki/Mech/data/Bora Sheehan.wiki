@@ -1,0 +1,24 @@
+﻿++ Bora Sheehan
+
++++ Quick Facts
+    * Full Name: Bora Anne Sheehan
+    * Father: Wilson Sheehan
+    * Mother: Sun Hwang
+    * Gender: Female
+    * Rank: Specialist, 2nd Class
+    * Position: Repair tech, [UNS Agamemnon]
+    * Ethnicity: Mixed (Irish/Korean)
+    * Hair: Reddish black
+    * Skin: Very light brown, freckles
+    * Eyes: Brown
+    * Height: 5'4"
+
++++ Bio
+Of Irish and Korean descent.
+
++++ Skills
+    * Electronics
+    * Damage Control
+    * Emergency Procedures
+    * Extravehicular Operations
+    * Programming

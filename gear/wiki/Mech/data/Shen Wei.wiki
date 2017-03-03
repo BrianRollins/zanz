@@ -1,0 +1,28 @@
+﻿++ Shen Wei
+
++++ Quick Facts
+    * Full Name: Shen Wei
+    * Father: Li Wei
+    * Mother: Ming Wei
+    * Gender: Male
+    * Rank: Lieutenant Junior Grade
+    * Position: Engineer
+    * Ethnicity: Chinese
+    * Height: 5'7"
+    * Weight: 180
+    * Hair: Black
+    * Eyes: Brown
+
++++ Bio
+The child of two Chinese defectors, Wei struggles to find his place among the crew of the Agamemnon. He's a brilliant, but eccentric engineer that both amazes and frustrates his commanding officer.
+
++++ Skills
+  * Ship Engines
+  * Ship Armament
+  * Ship Repair
+  * Emergency Procedures
+  * Unarmed Combat
+  * Ship Electronics
+  * Programming
+  * Mech Repair/Maintenance
+  * Shipbuilding

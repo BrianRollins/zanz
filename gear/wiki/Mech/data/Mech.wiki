@@ -1,0 +1,11 @@
+﻿++ Mech
+    * [Characters]
+    * [Places]
+    * Races
+        * [Humanity]
+        * [Phalanx]
+    * [Plots]
+    * [Technology]
+
+
+	* WikiSettings

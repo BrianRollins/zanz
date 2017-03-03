@@ -1,0 +1,29 @@
+﻿++ Nisha Kumar
+
++++ Quick Facts
+  * Full Name: Nisha Kumar
+  * Father:
+  * Mother:
+  * Gender: Female
+  * Rank: Lieutenant
+  * Position: Shuttle Pilot
+  * Ethnicity: Indian
+  * Height: 5'8"
+  * Weight: 170
+  * Hair: Black
+  * Eyes: Brown
+
++++ Bio
+Daughter of a fighter pilot and a medic, Nisha is a top shuttle pilot and trying to get a slot as a fighter pilot.
+
++++ Skills
+  * Fighter Pilot
+  * Fighter Repair/Maintenance
+  * Shuttle Pilot
+  * Shuttle Repair/Maintenance
+  * Starship Operations
+  * Armed Combat
+  * Unarmed Combat
+  * Command
+  * Scouting
+  * Surveillance
