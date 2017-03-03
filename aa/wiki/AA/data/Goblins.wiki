@@ -1,0 +1,9 @@
+﻿++ Goblins
+
+Goblins are a crafty, intelligent species. They prize cleverness over most all attributes.
+
+Goblins make for excellent lawyers, administrators, doctors, scientists, and alchemists.
+
+While they have a long-standing feud with the [Dwarves], they are not above putting aside these differences for gold or for a challenge.
+
+They enjoy games of mental skill and cunning (chess, go). Games of chance (like dice) are distasteful to them, but they aren't above playing a game like poker, where skills like bluffing can offset the randomness. If a goblin is playing dice, you can bet the pieces have been rigged.

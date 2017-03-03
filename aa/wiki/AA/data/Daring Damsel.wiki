@@ -1,0 +1,32 @@
+﻿++ Daring Damsel
+
+A Dontarian Valiant-class transport ship.
+
+Designed to move fast and take heavy fire while delivering small amounts of cargo or troop deployments.
+
+Long and sleek, the Damsel features four small turbine engines in her armored aft with intakes a little further up her hull. She has a copper alloy armor that's alchemically treated to withstand more punishment. The Damsel has been patched with less expensive, but less durable materials over time.
+
+Along her port and starboard sides she has numerous hatches making loading and unloading quick.
+
+Her bridge is located on the dorsal side, close her bow. It makes a tear-drop shaped bubble on the top of the ship. It gives visibility around the top of the ship, but is blocked just aft by curve of the ship. A secondary control station is located a deck below and is used for landings and spotting enemy craft.
+
+The engine room occupies most of the rear of the ship, near the engines. There's an observation deck in the aft at the same level as the bridge which is used to give the crew more visibility.
+
+She had four lift bladders along her dorsal side. Two fore and two aft, allowing her to pitch up and down quickly. Also tucked into her aft section, toward the dorsal side are a pair of ailerons for high speed maneuvering. These fold in during bombardment to protect them and offer a smaller profile to anti-aircraft batteries.
+
+All the windows on the ship have armored shutters. They are closed either manually (officer berths) or automatically by machine (the bridge, landing station, and observation deck).
+
+Built for the First Grand War, the Bitch only saw a little bit of action before the war ended. During the lull between the First and Second wars, the Valiant class was made obsolete by larger, faster vessels. The class was kept around and still saw extensive use during the second war. The Dontarian Army had become quite fond of the smaller vessels, which could slip in unnoticed and drop troops and supplies behind enemy lines. Few of the vessels survived the war as they were considered obsolete by the top brass and saw some of the most brutal combat during the war.
+
+The Bitch herself saw her life as a military vessel come to a quick and bloody end when the entire crew (save one) was slaughtered on an ill-fated mission. The lone survivor, Gareth Black saved the ship from the scrapyard by purchasing her with his prize money from the war. He keeps the ship in as good of repair as he can as a monument to his fallen friends.
+
+Other Valiant-class ships:
+
+    * The Valiant Victory
+    * The Fearless Fighter
+    * The Heroic Hand
+    * The Dauntless Daughter
+    * The Sanguine Son
+    * The Gallant Gent
+    * The Courageous Cad
+    * The Resolute Regent
