@@ -1,0 +1,3 @@
+﻿++ Asteroid Belt
+
+Collection of asteroids in the Solar System between [Mars] and [Jupiter]

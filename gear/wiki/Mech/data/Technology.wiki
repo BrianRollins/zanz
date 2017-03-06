@@ -12,3 +12,7 @@
     * [Medical]
     
 +++ Weapons
+    * [Mechs]
+    * [Guns]
+
+[icon: tv]

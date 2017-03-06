@@ -1,0 +1,9 @@
+﻿++ Earth
+
++++ Overview
+
+Human Population: 0 known 
+Phalanx Population: 1 billion+ 
+Moons: [Luna]
+
+Some stuff here.
