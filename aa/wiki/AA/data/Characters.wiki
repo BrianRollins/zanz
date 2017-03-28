@@ -1,5 +1,13 @@
 ﻿++ Characters
 
++++ Primary
+
     * [Gareth Black]
     * [Rix Stonebreaker]
     * [Will Irons]
+
++++ Secondary
+
+    * [Zan Queel]
+
+[icon: man]

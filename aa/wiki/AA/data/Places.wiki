@@ -1,13 +1,13 @@
 ﻿++ Places
 
     * [Dontaria]
-        * [Dontaria Capital City]
-            * [Ruby Rose]
+        * Dontaria Capital City
     * [Frostford]
     * [Gray Wastes]
     * [Shattered Isles]
-        * [Illisport]
-            * [The Docks]
-            * [The Citadel]
+        * [Illisport]            
     * [Tarnos]
         * Capital City
+
+
+[icon: map]

@@ -1,3 +1,5 @@
 ﻿++ Shattered Isles
 
 Broken set of islands located in the middle of a large ocean. A major stop-over, weigh station, and trading point for the world. Many of the islands are rocky and barren. A few herdsmen here and there. Even some crops. The main island is completely covered by a large city, [Illisport].
+
+[icon: map]

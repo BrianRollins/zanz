@@ -39,3 +39,5 @@ Settlers on Freehold are under attack by pirates and raiders. The settlers are c
 +++ Underground
 
 The Damsel is stuck underground and the crew have to navigate through a labyrinth to get out. Several times, Gareth has to fight to keep from abandoning the ship and just leaving on foot.
+
+[icon: pen]
